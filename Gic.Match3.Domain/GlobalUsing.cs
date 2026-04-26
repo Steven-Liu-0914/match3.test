@@ -1,0 +1,1 @@
+﻿global using static Gic.Match3.Domain.Consts.Messages;

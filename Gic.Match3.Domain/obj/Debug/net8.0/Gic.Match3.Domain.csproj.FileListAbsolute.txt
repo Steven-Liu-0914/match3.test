@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\bin\Debug\net8.0\Gic.Match3.Domain.deps.json
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\bin\Debug\net8.0\Gic.Match3.Domain.dll
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\bin\Debug\net8.0\Gic.Match3.Domain.pdb
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.dll
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\refint\Gic.Match3.Domain.dll
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\Gic.Match3.Domain.pdb
+C:\Users\Administrator\Desktop\16891Jing Tai Liu-C#\Gic.Match3\Gic.Match3.Domain\obj\Debug\net8.0\ref\Gic.Match3.Domain.dll
